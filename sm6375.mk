@@ -370,7 +370,7 @@ PRODUCT_PACKAGES_DEBUG += \
 
 # USB
 PRODUCT_PACKAGES += \
-    android.hardware.usb-service.qti
+    android.hardware.usb-service.realme_blair
 
 PRODUCT_PACKAGES += \
     init.qcom.usb.rc \
